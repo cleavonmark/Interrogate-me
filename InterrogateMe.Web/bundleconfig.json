@@ -1,0 +1,31 @@
+[
+  {
+    "outputFileName": "wwwroot/css/site.min.css",
+    "inputFiles": [
+      "wwwroot/css/site.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/jsSocials/jssocials.min.css",
+    "inputFiles": [
+      "wwwroot/css/jsSocials/jssocials.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/jsSocials/jssocials-theme-flat.min.css",
+    "inputFiles": [
+      "wwwroot/css/jsSocials/jssocials-theme-flat.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/interrogatehub.min.js",
+    "inputFiles": [
+      "wwwroot/js/interrogatehub.js"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  }
+]
